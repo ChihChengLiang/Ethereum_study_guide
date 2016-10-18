@@ -47,3 +47,8 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 - 區塊鏈的技術快速湧出，急需定義中文翻譯以利後續媒體、學術研究。請協助翻譯 [詞彙表](https://github.com/EtherTW/blockchain_vocabulary)
 - 本文件，歡迎補充
 
+# 進階
+
+## 更多智能契約
+
+見本專案 [contracts.md](./contracts.md)
