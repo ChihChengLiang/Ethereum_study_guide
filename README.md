@@ -35,7 +35,10 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 - [Proof of Stake 的研究](https://gitter.im/ethereum/research)
 - 台灣的技術社群：
 	- [臉書討論團](https://www.facebook.com/groups/443751072484739/)
-	- 台北 Ethereum Meetup ： [實體聚會](meetup.com/Taipei-Ethereum-Meetup/) 、[實體聚會錄影](https://www.youtube.com/channel/UCVmRAQeesq4TA3rdvbz-IkQ)
+	- 台北 Ethereum Meetup ：
+		- [實體聚會](meetup.com/Taipei-Ethereum-Meetup/), [Youtube 頻道](https://www.youtube.com/channel/UCVmRAQeesq4TA3rdvbz-IkQ)
+		- [歷次聚會投影片、影片、程式碼](https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki/All-talks)
+		- [較零散的學習資源整理](https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki/Learning-Resources)
 
 ## 貢獻指南
 
