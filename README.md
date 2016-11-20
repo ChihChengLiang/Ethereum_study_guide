@@ -20,9 +20,13 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 ## 實作
 
 - 安裝 [官方錢包](https://github.com/ethereum/mist#installation) ，並走過同步區塊、創建帳號、交易、智能契約，等範例。
-- 挖礦
-- 玩 geth
-- 玩 pyethapp
+- [Mist 與智能契約](https://medium.com/@hsiehyungchen/ethereum-smart-contract-%E6%92%B0%E5%AF%AB-68588a3d8358#.mh2fvg4qq)
+- [Truffle, testrpc 開發流](https://d3vv6lp55qjaqc.cloudfront.net/items/0I291N0j0n2b1G3D352N/truffle.html) ，舒適開發體驗，不需接真的公鏈或私鏈，免心算 gas 或等交易。
+- 玩 [parity](https://github.com/ethcore/parity) ，快速同步區塊、很好安裝
+
+
+### 過時
+
 - [架 pyethapp cluster](https://medium.com/@chihchengliang/%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84-ethereum-%E7%A7%81%E9%8F%88%E5%81%9A%E7%A0%94%E7%A9%B6-e8943a82232b#.iyln1kd5z)
 
 
