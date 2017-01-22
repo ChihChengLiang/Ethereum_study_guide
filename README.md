@@ -56,3 +56,11 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 ## 更多智能契約
 
 見本專案 [contracts.md](./contracts.md)
+
+# 通識性的介紹
+
+不建議只看這些，但如果您真的很缺時間 ...
+
+- [訓練課程：
+如何評估多中心應用與設計智能合約架構](https://docs.google.com/presentation/d/1skVKF69RNGIrsiZR8EcXLKBZGmamNCDnldXhVx1l3fE)
+- [陳昶吾 | A Tour of Ethereum Ecosystem | Taipei Ethereum Meetup #12 螢幕錄影](https://www.youtube.com/watch?v=uFBu2P1mwFU)
