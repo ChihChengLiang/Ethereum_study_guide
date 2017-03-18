@@ -8,6 +8,7 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 	- [簡中版](https://www.bitcoinbook.info/translations/cmn/book.pdf)
 	- 請踴躍協助翻譯[繁中版](https://www.transifex.com/bitcoinbook/mastering-bitcoin/)
 - 普林斯頓在 Coursera 開設的 [比特幣和數字貨幣技術](https://zh-tw.coursera.org/course/bitcointech)
+	- 免註冊，影片已可在 [Youtube 上播放清單](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)觀看
 	- 亂亂的 [筆記](http://hashedportfolio.blogspot.tw/)
 
 ## 了解 Ethereum
@@ -32,6 +33,7 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 
 ## 關注 Ethereum 動態
 
+- [每週 Ethereum 新聞](http://www.weekinethereum.com/)
 - [Reddit](https://www.reddit.com/r/ethereum) 上有一般討論，核心人員也會在上面出現回覆問題。
 - [Medium](https://medium.com/tag/ethereum) 偶爾會有精彩文章分析
 - 如果 Reddit 懶得一筆一筆看的話，訂閱這個 [臉書專頁](https://www.facebook.com/Ethereum-news-1024476174267058/?fref=ts) 讓他們自然出現在臉書上。
@@ -43,6 +45,7 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 		- [實體聚會](meetup.com/Taipei-Ethereum-Meetup/), [Youtube 頻道](https://www.youtube.com/channel/UCVmRAQeesq4TA3rdvbz-IkQ)
 		- [歷次聚會投影片、影片、程式碼](https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki/All-talks)
 		- [較零散的學習資源整理](https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki/Learning-Resources)
+
 
 ## 貢獻指南
 
@@ -64,3 +67,8 @@ Bitcoin 可說是區塊鏈的最低可行產品 (MVP) ，在進入任意區塊�
 - [訓練課程：
 如何評估多中心應用與設計智能合約架構](https://docs.google.com/presentation/d/1skVKF69RNGIrsiZR8EcXLKBZGmamNCDnldXhVx1l3fE)
 - [陳昶吾 | A Tour of Ethereum Ecosystem | Taipei Ethereum Meetup #12 螢幕錄影](https://www.youtube.com/watch?v=uFBu2P1mwFU)
+
+# 就是要讀論文派
+
+- Arvind Narayanan 的論文清單[Research for Practice:
+Cryptocurrencies, Blockchains, and Smart Contracts;](http://queue.acm.org/detail.cfm?id=3043967)
